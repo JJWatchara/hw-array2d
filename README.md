@@ -1,1 +1,0 @@
-# hw-array2d
