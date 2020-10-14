@@ -16,7 +16,6 @@ void calprice(float price[5][3]) {
 		price[i][2] = price[i][0] + price[i][1];
 	}
 }
-
 int main() {
 	string name[5];
 	float price[5][3];
